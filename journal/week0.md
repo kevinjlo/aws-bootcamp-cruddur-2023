@@ -29,4 +29,4 @@ Proof of budget created in AWS console</br>
 ![AWSbudget](asset_w0/budget.JPG)
 
 ## Lucid Chart Diagram
-![LucidChart](asset_w0/Week 0 - Architecture and Billing.JPG)
+![LucidChart](asset_w0/lucidchart.JPG)
