@@ -16,6 +16,7 @@ Created IAM user from root account
 Enabled MFA on user account
 Allowed Billing access for IAM users and provisioned requisite IAM policies against the user so that the IAM user can see billing portal
 ![IAMuser](asset_w0/IAMUser.JPG)
+![IAMuserdetails](asset_w0/IAMUser2.JPG)
 
 
 ## Installed AWS CLI
