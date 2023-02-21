@@ -15,6 +15,9 @@ Ran standard aws cli commands as shown in yt videos
 ```aws account get-contact-information ```
 </br>
 ```aws sts get-caller-identity```
+</br>
+Cloud Shell example run <br>
+![awscloudshell](asset_w0/awscloudshell.JPG)
 
 ## Installed AWS CLI locally
 Proof of installation of AWS on CLI </br>
