@@ -29,4 +29,5 @@ Proof of budget created in AWS console</br>
 ![AWSbudget](asset_w0/budget.JPG)
 
 ## Lucid Chart Diagram
+Recreated detailed design, had to look up what the icon for serverless caching was
 ![LucidChart](asset_w0/lucidchart.JPG)
