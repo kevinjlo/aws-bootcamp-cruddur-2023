@@ -6,6 +6,10 @@
 ## Use Cloudshell
 Started cloud shell in Canada Central region.
 Ran standard aws cli commands as shown in yt videos
+</br>
+```aws account get-contact-information ```
+</br>
+```aws sts get-caller-identity```
 
 ## Geneate AWS Credentials
 Created IAM user from root account
