@@ -19,10 +19,14 @@ Allowed Billing access for IAM users and provisioned requisite IAM policies agai
 ![IAMuserdetails](asset_w0/IAMUser2.JPG)
 
 
-## Installed AWS CLI
+## Installed AWS CLI locally
 Proof of installation of AWS on CLI </br>
 ![AWSInstall](asset_w0/awscli_install.JPG)
 
 ## Create Billing Alarm
+Proof of multiple billing alarm thresholds </br>
+![BillingAlarm](asset_w0/billingalarm.JPG)
 
 ## Create a Budget
+Proof of budget created in AWS console</br>
+![AWSbudget](asset_w0/budget.JPG)
