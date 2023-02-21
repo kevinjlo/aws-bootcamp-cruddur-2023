@@ -20,7 +20,7 @@ Allowed Billing access for IAM users and provisioned requisite IAM policies agai
 
 
 ## Installed AWS CLI
-Proof of installation of AWS on CLI
+Proof of installation of AWS on CLI </br>
 ![AWSInstall](asset_w0/awscli_install.JPG)
 
 ## Create Billing Alarm
